@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "start"
+  ],
+  "packages": [
+    {
+      "name": "start",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
