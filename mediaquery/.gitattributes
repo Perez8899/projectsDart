@@ -1,0 +1,16 @@
+*.dart linguist-detectable=true
+*.java linguist-detectable=false
+*.kt linguist-detectable=false
+*.swift linguist-detectable=false
+*.m linguist-detectable=false
+*.h linguist-detectable=false
+*.cpp linguist-detectable=false
+*.c linguistist-detectable=false
+*.xml linguist-detectable=false
+*.gradle linguist-detectable=false
+*.pro linguist-detectable=false
+*.yaml linguist-detectable=false
+*.yml linguist-detectable=false
+
+# Opcional: forzar que Dart sea el lenguaje principal
+*.dart linguist-language=Dart
